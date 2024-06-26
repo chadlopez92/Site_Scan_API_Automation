@@ -47,7 +47,7 @@ This Python script automates the creation of missions, the uploading of images, 
 
 1. Run the Script:
     ```bash
-    python your_script_name.py
+    Create_Mission_Upload_Images_Process_Mission.py
     ```
 
 2. Monitor the Output:
