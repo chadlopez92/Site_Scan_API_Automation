@@ -23,7 +23,7 @@ This Python script automates the creation of missions, the uploading of images, 
 1. Clone the Repository:
     ```bash
     git clone https://github.com/chadlopez92/Site_Scan_API_Automation.git
-    cd your-repo-name
+    cd Site_Scan_API_Automation
     ```
 
 2. Install Required Libraries:
@@ -54,4 +54,8 @@ This Python script automates the creation of missions, the uploading of images, 
     - The script will create a new mission and print the mission ID and name.
     - It will then upload each image from the specified directory.
     - Finally, it will initiate mission processing and print the status.
+  
+## Acknowledgements
+
+This script was created with the assistance of ChatGPT, developed by OpenAI. Special thanks to OpenAI for providing the AI tools that made this project possible.
 
