@@ -58,7 +58,7 @@ This Python script automates the creation of missions, the uploading of images, 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/chadlopez92/Site_Scan_API_Automation/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 
