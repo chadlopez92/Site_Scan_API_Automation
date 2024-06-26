@@ -22,7 +22,7 @@ This Python script automates the creation of missions, the uploading of images, 
 
 1. Clone the Repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/chadlopez92/Site_Scan_API_Automation.git
     cd your-repo-name
     ```
 
