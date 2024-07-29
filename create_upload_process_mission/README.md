@@ -1,4 +1,4 @@
-# Create, Upload and Process Missions
+# Create, Upload, and Process Missions
 
 ## Overview
 
