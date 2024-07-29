@@ -1,8 +1,8 @@
-# Automated Image Upload and Mission Processing Script
+# Retrieve and Download Recent Orthomosaic
 
 ## Overview
 
-This Python script automates the creation of missions, the uploading of images, and the initiation of mission processing using the SiteScan API. The script was conceptualized and integrated by Chad Lopez, with code generation assistance from ChatGPT.
+This Python script retrieves the URL of the most recent orthomosaic from the SiteScan API and downloads the orthomosaic file to a specified directory. The script was conceptualized and integrated by Chad Lopez, with code generation assistance from ChatGPT.
 
 ## Features
 
