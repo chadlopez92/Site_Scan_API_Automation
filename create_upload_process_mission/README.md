@@ -1,4 +1,4 @@
-# Automated Image Upload and Mission Processing Script
+# Create, Upload and Process Missions
 
 ## Overview
 
