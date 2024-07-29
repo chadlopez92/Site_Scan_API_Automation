@@ -6,7 +6,7 @@ This repository contains Python scripts that interact with the [SiteScan API](ht
 
 ## Features and Functionality
 
-1. **Create, Upload, and Process Missions**:
+1. **[Create, Upload, and Process Missions](https://github.com/chadlopez92/Site_Scan_API_Automation/tree/main/create_upload_process_mission)**: 
     - Automatically creates new missions with names based on the current date and time.
     - Uploads images from a specified directory, supporting various image formats.
     - Initiates mission processing automatically after the images are uploaded.
