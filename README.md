@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains Python scripts that interact with the [SiteScan API](https://www.esri.com/en-us/arcgis/products/arcgis-reality/products/site-scan-for-arcgis) to automate various tasks. To  These scripts were conceptualized and integrated by Chad Lopez, with code generation assistance from ChatGPT. Note: A SiteScan custom subscription is required to access the API token. Some scripts may also require an
+This repository contains Python scripts that interact with the [SiteScan API](https://www.esri.com/en-us/arcgis/products/arcgis-reality/products/site-scan-for-arcgis) to automate various tasks. To  These scripts were conceptualized and integrated by Chad Lopez, with code generation assistance from ChatGPT. Note: A SiteScan custom subscription is required to access the API token. Some scripts may also require an [ArcGIS Professional](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) subscription.
 
 ## Features and Functionality
 
