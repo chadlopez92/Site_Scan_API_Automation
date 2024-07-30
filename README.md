@@ -33,12 +33,4 @@ This repository contains Python scripts that interact with the [SiteScan API](ht
     pip install requests
     ```
 
-## Configuration
 
-### Create, Upload, and Process Missions
-
-Set your Project ID, Directory Path, and API Token in the `create_upload_process.py` script:
-```python
-api_token = 'Your_API_Token'
-project_id = 'Your_Project_ID'
-directory_path = 'Your_Directory_Path'
